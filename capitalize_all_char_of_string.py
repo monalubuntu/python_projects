@@ -1,3 +1,4 @@
-string_name="scala is a scripting language for spark"
+
+string_name="programiz is a online compiler for python"
 x=string_name.upper()
 print(x)
